@@ -5,7 +5,7 @@ This is "Website Optimization" Project, as part of Udacity's "Front End Develope
 # Running
 
 * To see online - [Link to Portfolio site](https://zhandosgithub.github.io/Optimize%20Portfolio%20Site/index.html)
-* To see locally - clone the [Project](https://github.com/ZhandosGitHub/ZhandosGitHub.github.io) from GitHub and run Index.html file in "Optimize Portfolio Site"
+* To see locally - clone the [Project](https://github.com/ZhandosGitHub/frontend-nanodegree-website-optimization) from GitHub and run Index.html
 
 
 
@@ -28,10 +28,10 @@ This is "Website Optimization" Project, as part of Udacity's "Front End Develope
 * Replaced querySelectorAll with getelementsbyclassname for better performance
 * Moved elems, items, itemLenth and phase,pizzasDiv out of for loop to remove unnessary repeagted initializations
 * Moved calcaulation out of for loop (in var scrollingTopBy1250)
-* Reduced number of pizzas to 40 from 200 
+* Reduced number of pizzas to 40 from 200
 * Got read of determineDx function by refactoring within existing function
 * Got read of col and s values, by specifying values directly  - In function changePizzaSizes(size) {
-* Applied transformX to sliding pizzas 
+* Applied transformX to sliding pizzas
 
 # Authors
 
