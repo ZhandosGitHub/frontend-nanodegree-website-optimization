@@ -4,7 +4,7 @@ This is "Website Optimization" Project, as part of Udacity's "Front End Develope
 
 # Running
 
-* To see online - [Link to Portfolio site](https://zhandosgithub.github.io/Optimize%20Portfolio%20Site/index.html)
+* To see online - [Link to Portfolio site](https://zhandosgithub.github.io/Website%20Optimization/index.html)
 * To see locally - clone the [Project](https://github.com/ZhandosGitHub/frontend-nanodegree-website-optimization) from GitHub and run Index.html
 
 
